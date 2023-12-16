@@ -2,8 +2,8 @@
 
 This is a README file.
 
-** Hello world! **
+**Hello world**
 
-* The End. *
+*The End*
 
-~~ Author: Vlada Shalom. ~~
+~~Author: Vlada Shalom~~
